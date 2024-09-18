@@ -1,0 +1,8 @@
+
+Como surgiu?
+ O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds,
+o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software depende do Git para controle de versão,
+incluindo projetos comerciais e de código-fonte aberto.
+Qual o seu prposito?
+ Suporte a vários tipos de fluxos de trabalho de desenvolvimento não lineares,
+em eficiência em projetos pequenos e grandes e em compatibilidade com muitos sistemas e protocolos existentes.
